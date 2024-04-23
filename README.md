@@ -1,1 +1,28 @@
-Welcome to the Phone Number Converter repository! This Python script, built with PySimpleGUI, offers a convenient graphical interface for processing phone numbers in bulk. With just a few clicks, you can upload your input file, apply custom transformations such as prefix replacement, and save the modified numbers to an output file. Whether you're a developer looking to streamline data processing tasks or a casual user in need of a quick solution, this tool is designed to simplify the process and provide instant results. Get started today and empower your phone number management with ease!
+# Phone Number Converter
+
+Phone Number Converter is a simple Python tool that converts phone numbers in a specified format. It provides a graphical user interface (GUI) built using the PySimpleGUI library, making it easy to upload a file containing phone numbers and convert them to a standardized format.
+
+## Features
+
+- Convert phone numbers to a standardized format.
+- Graphical user interface (GUI) for easy interaction.
+- Upload input file and specify output file location.
+
+## Prerequisites
+
+Before running the Phone Number Converter tool, ensure you have the following prerequisites installed:
+
+- Python 3.x
+- PySimpleGUI library
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/[username]/Phone-Number-Converter.git
+
+
+Navigate to the project directory
+pip install PySimpleGUI
+
+This project is licensed under the MIT License - see the LICENSE file for details.
